@@ -1,3 +1,4 @@
 Sprint 7 Project README
 link to Tableau document (Sprint 7 Project):
 https://public.tableau.com/app/profile/sam.theilen/viz/Sprint7Project_17325689375140/Story1?publish=yes
+This open ended project gave the opportunity to investigate restaurant data. My approach was to analyze best/worst selling menu items and identify ways to improve sales.
