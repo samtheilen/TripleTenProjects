@@ -2,3 +2,9 @@ Sprint 7 Project README
 link to Tableau document (Sprint 7 Project):
 https://public.tableau.com/app/profile/sam.theilen/viz/Sprint7Project_17325689375140/Story1?publish=yes
 This open ended project gave the opportunity to investigate restaurant data. My approach was to analyze best/worst selling menu items and identify ways to improve sales.
+
+The initial review of data looked at different categories to identify what menu items sold the most. Top categories included Indian and Chinese themed foods. Data for if the dish was vegetarian or not was included but the sales numbers were consistent with the number of menu items so this factor was not investigated further. Looking at individual menu items, it appears that lunch item are the top sellers including sandwiches, burgers, sides, and drinks.
+
+A review of the worst selling menu items was performed, but over 3% of all menut items sold less than one item per month. There are manu more items very close to this number, but one sale/month is a point worth emphasizing. Average sales over time show that there is a spike in popularity early on but that the average of sales drops over time. This is likely due to the novelty of restaurant being new. Cutting down the menu to discontinue unpopular dishes will help cut costs, but the business need to be reinvigorated to become successfull again.
+
+July and October were identified as slow periods for sales which makes them perfect candidates for promotions for return visits. Promotions such as making an order in June will get you a discount in July, the following month. Promotions like this would alleviate the business lulls. Additionally, promotions keep Zomato fresh in customer's minds. Promotions can also be oriented towards restaurants or menu items that are popular based on the location.
