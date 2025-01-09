@@ -1,0 +1,16 @@
+Sprint 3 Project README
+link to Excel document (Sprint 3 Ride Share SQL Analysis): 
+https://docs.google.com/spreadsheets/d/1asIzJsbckY8UUYqI4jx_BEQmKDMz-QNpV-TFbvwKLcw/edit?gid=38637670#gid=38637670
+
+Summary:
+The purpose of this project was to utilize my skills with SQL to find specific information from the raw data provided including number of rides under specific weather conditions, number of rides under specific company names, and combined number of rides for top performing companies.
+
+Results:
+Conversion Funnel: 29% of people that visit the website add products to their carts. Of that, only 10% commit to a purchase.
+Retention Rates: Retention rates are low out the gate with only an average of 7% of users sticking around after the first month and seldom do users stay after the 2nd month.
+
+Analysis:
+Raw Data:	The raw data provided was a collection of logs containing user IDs, the actions they partook in on the website, the cateogry of product or service their interaction was based on, the brand of the product (if applicable), the price of the product or service, and the date in which the interaction took place.
+Conversion Funnel:	We looked at the event types and the number of unique users that engages with the website and calculated the number of users that progressed from accessing the website to eventually making a purchase. The area with most room for improvement is getting people to add products to their carts. We should look into methods that would entice people to add items to their carts including carrying more of a variety of stock or incorporating sales or promotions.
+Retention Rates: We compiled the users into cohorts broken down by age in months from the first purchase they made. We then charted out the number of unique users that made purchases and kept making purchases in the following months.
+There appears to be little retention with users mostly making one time purchases. Measures should be taken to encourage users to return whether through a loyalty program or promotions exclusive to returning customers.
